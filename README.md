@@ -22,4 +22,4 @@ As an entrepreneur with a background in business, I bring a diverse perspective 
 - I'm always open to feedback to improve my skills and better serve the needs of any organization. Please reach out if you have an opportunity where my unique skills could add value.
 <br />
 <p align="left">
-<a href="www.linkedin.com/in/oscar-gperales"><img src="https://img.shields.io/badge/-Oscar%20Perales-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="http://www.linkedin.com/in/oscar-gperales"><img src="https://img.shields.io/badge/-Oscar%20Perales-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
