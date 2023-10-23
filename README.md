@@ -7,9 +7,10 @@ I'm Oscar Perales, rookie Data Scientist. I'm excited to pivot into this new wor
 
 As an entrepreneur with a background in business, I bring a diverse perspective to data science. After successfully growing and selling my last startup, I was eager for a new challenge that leveraged my analytical skills.
 
-- ⚖️ I'm interested in a balanced array of data science projects.
-- 📚 I'm currently focused on tackling challenges at the intersection of data science and real-world impact.
+- ⚖️ I aim to gain well-rounded experience across diverse areas within data science, from model development to analytics visualization. Exploring new use cases and problem domains drives my learning
+- 📚 Making a practical difference through analysis is personally motivating. I seek projects that apply data-driven solutions to address real-world issues and extend the benefits of my skills beyond pure research. Thorough solutions with measurable impacts interest me most
 
+  
 ## What I Offer 📈
 - Business acumen - An understanding of business objectives and how data science can support strategic goals.
 - Pattern recognition - A skill for spotting non-obvious trends and relationships in complex data.
